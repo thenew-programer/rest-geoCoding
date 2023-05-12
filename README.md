@@ -1,0 +1,20 @@
+# Geo Code API
+
+This is a simple api that provide for you:
+- **id** of the city
+- **city** name
+- **latitude**
+- **longitude**
+- **timezone**
+- **population** - population of the city
+- **country_code**
+- **country**
+- **country_id**.
+
+you only need the name of city
+```
+//endpoint
+
+```
+
+This api is using another api, that provide the real information, thanks to [Open-Meteo](https://open-meteo.com)
