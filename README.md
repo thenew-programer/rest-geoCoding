@@ -12,9 +12,14 @@ This is a simple api that provide for you:
 - **country_id**.
 
 you only need the name of city
+### Endpoint
 ```
 //endpoint
+https://geocode.onrender.com/city/{name of the city}
 
+e.g: https://geocode.onrender.com/city/london
 ```
 
-This api is using another api, that provide the real information, thanks to [Open-Meteo](https://open-meteo.com)
+### [TEST](https://geocode.onrender.com/city/london)
+
+This api is using another api, thanks to [Open-Meteo](https://open-meteo.com)
