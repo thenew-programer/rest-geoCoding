@@ -20,6 +20,6 @@ https://geocode.onrender.com/city/{name of the city}
 e.g: https://geocode.onrender.com/city/london
 ```
 
-### [TEST](https://geocode.onrender.com/city/london)
+### [Click To TEST](https://geocode.onrender.com/city/london)
 
 This api is using another api, thanks to [Open-Meteo](https://open-meteo.com)
